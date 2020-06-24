@@ -17,7 +17,7 @@ Also, MongoDB is used to store the users' account info. In the end, you can chec
 9. The localhost should be opened in your browser
 
 ## Youtube Video
-You can refer to the following Youtube url and the steps:
+You can refer to the following Youtube url and the steps: <br/>
 https://www.youtube.com/watch?v=Fi_L3HGDzsM&feature=youtu.be
 
 ## Reference
