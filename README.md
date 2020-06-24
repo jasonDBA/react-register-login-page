@@ -10,11 +10,12 @@ Also, MongoDB is used to store the users' account info. In the end, you can chec
 2. Unzip the file
 3. Open the folder in VS (Visual Studio Code)
 4. Go to MongoDB and create you cluster
-5. Put MongoDB info url to 'dev.js' in the server directory
-6. Save the change in dev.js
-7. Open a terminal in VS
-8. Type 'npm run dev'
-9. The localhost should be opened in your browser
+5. Create a 'dev.js' in the server => config directory
+6. Put MongoDB info url to 'dev.js' in the server directory
+7. Save the change in dev.js
+8. Open a terminal in VS
+9. Type 'npm run dev'
+10. The localhost should be opened in your browser
 
 ## Youtube Video
 You can refer to the following Youtube url and the steps: <br/>
