@@ -1,6 +1,6 @@
 # Simple Register / Login / Logout Webpages using React.js / Node.js
 
-![](react-register-login.gif) <br />
+![](intro.gif) <br />
 
 This repository contains simple register / login / logout webpages using React.js and Node.js. <br />
 Also, MongoDB is used to store the users' account info. In the end, you can check if the user data is stored in the db successfully by using 'Redux Dev Tools'.
