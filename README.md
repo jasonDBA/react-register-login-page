@@ -5,7 +5,7 @@
 This repository contains simple register / login / logout webpages using React.js and Node.js. <br />
 Also, MongoDB is used to store the users' account info. In the end, you can check if the user data is stored in the db successfully by using 'Redux Dev Tools'.
 
-## Steps
+## Installation
 1. Download the clone from this Github repository
 2. Unzip the file
 3. Open the folder in VS (Visual Studio Code)
